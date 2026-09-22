@@ -1,7 +1,7 @@
 # EX3 Write a program to count the number of digits in an integer.
 ## AIM:
 To Write a program to count the number of digits in an integer.
-
+## DATE: 27/07/26
 ## Algorithm
 ```
 1. Start the program.
